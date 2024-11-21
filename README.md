@@ -7,7 +7,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I work as Behavioral Modeling Quant @ [Unicredit S.p.A.](https://www.unicredit.it/it/chi-siamo.html), where I develop models using statistics and artificial intelligence techniques to predict bank's customers' behavior
+- 🏦 I work as Data Scientist @ [Mediobanca S.p.A.](https://www.mediobanca.com/en/index.html), where I develop models using statistics and artificial intelligence techniques to predict bank's customers' behavior
 - 💻 I use daily: **.py**, **.R**,  **.sql**
 - 👀 My main interests are Machine Learning, Software Engineering, Monte Carlo Techniques and Traditional Wet Shaving!
 - 🧑‍💻 Tech I work on :
